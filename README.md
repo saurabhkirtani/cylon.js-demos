@@ -1,4 +1,4 @@
-These are a set of demos for Cylon.js - the JavaScript framework for robotics and physical computing and interacting remotely with IoT Devices.
+These are a set of demos for Cylon.js (the JavaScript framework for robotics and physical computing), and interacting remotely with IoT Devices.
 
 1.  arduino-blinky.js and pi-blinky.js : Getting started with Cylon.js on Arduino and Raspberry Pi.
 2.  2-devices.js : How to add two devices to the same program.
